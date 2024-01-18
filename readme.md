@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Atenção!
 
-    Atualmente, ainda não faço o scraping por meio de automação dos resultados no google. É necessário para o usuário abrir uma nova pesquisa no google com o texto "site:inhire.app" , realizar o scroll até o fim da página e COPIAR todo o texto (ctrl c e ctrl v), jogando o texto no arquivo input.txt. O sistema então fará o match por meio de regex em "https://xxxxx.inhire.app/" onde XXXXX é o domínio. Após isso, excluirá os links duplicados.
+Atualmente, ainda não faço o scraping por meio de automação dos resultados no google. É necessário para o usuário abrir uma nova pesquisa no google com o texto "site:inhire.app" , realizar o scroll até o fim da página e COPIAR todo o texto (ctrl c e ctrl v), jogando o texto no arquivo input.txt. O sistema então fará o match por meio de regex em "https://xxxxx.inhire.app/" onde XXXXX é o domínio. Após isso, excluirá os links duplicados.
 
 ## Como Usar
 
